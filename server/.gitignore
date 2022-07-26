@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# config
+/config/mongo_config.js
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

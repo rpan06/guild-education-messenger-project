@@ -1,0 +1,13 @@
+{
+  "name": "guild-education-messenger-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "cd server && npm start"
+  },
+  "keywords": [],
+  "author": "Rachel Pan",
+  "license": "ISC"
+}
