@@ -5,7 +5,6 @@ import { HttpClientTestingModule } from '@angular/common/http/testing';
 import { of } from 'rxjs';
 import { AppComponent } from './app.component';
 import { MessageDTO } from './models/message.model';
-import { jsDocComment } from '@angular/compiler';
 
 const MockMessageData = [
   {
