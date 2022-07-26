@@ -13,11 +13,8 @@ A simple messenger web app that allows users to submit short text messages to ea
 >    - `npm install`
 >    - `cd ../server`
 >    - `npm install`
-> 1. Configure client API with your API key info
->    - `cd ./client/src`
->    - `cp config.default.js config.js`
 > 1. Configure server database with your mongo info (should be provided by author)
->    - `cd ../../server/config`
+>    - `cd ./server/config`
 >    - `cp mongo_config.default.js mongo_config.js`
 > 1. Start client
 >    - `npm run client`
